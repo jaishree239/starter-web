@@ -9,3 +9,6 @@
 ## Deployment
 
 adding deployment text
+keeping file in staging area
+
+keeping file in working directory
