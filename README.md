@@ -12,3 +12,6 @@ adding deployment text
 keeping file in staging area
 
 keeping file in working directory
+
+## Copyright
+2014 git training
