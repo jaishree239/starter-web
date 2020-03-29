@@ -15,3 +15,5 @@ keeping file in working directory
 
 ## Copyright
 2014 git training
+
+please fork this repository and then pull request for review
